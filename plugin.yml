@@ -1,0 +1,14 @@
+name: InfinityHCFAbilities
+version: 0.0.1
+main: yevwi
+api: 4.0.0
+
+commands:
+  abilities:
+    description: abilities
+    permission: abilities.command
+
+permissions:
+  abilities.command:
+    description: abilities
+    default: op

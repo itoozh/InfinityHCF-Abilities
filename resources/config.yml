@@ -1,0 +1,8 @@
+global.cooldown: 5
+space.cooldown: 45
+time.cooldown: 45
+power.cooldown: 45
+reality.cooldown: 45
+
+store: "store.hcf.net"
+
